@@ -1,2 +1,8 @@
 table {
-  width:650pas
+  width:650px; 
+  font-family:"Verdana";
+}
+
+border {
+  border-collapse:collapse;
+  
