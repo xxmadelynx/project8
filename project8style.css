@@ -14,10 +14,11 @@ h1 {
 
 .border {
   border-style:solid;
-  border-collapse:collapse;
   border-width:2px;
   border-color:blue;
 }
+.collapse {3
+  border-colla
 
 th {
   border-width:1px;
