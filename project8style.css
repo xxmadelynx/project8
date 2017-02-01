@@ -12,28 +12,18 @@ h1 {
 }
 
 .glossary {
-  border-style:dotted;
+  border-style:solid;
   border-collapse:collapse;
   border-width:2px;
   border-color:blue;
 }
-.col1 {
-  width:30%;
-}
-.col2 {
-  width:30%;
-}
-.col3 {
-  width:30%
-}
-.col4 {
-  width:30%
-}
-.col5 {
-  width:30%;
-}
-  
 
+th {
+  border-width:1px;
+  border-style:dashed;
+}
 
-
-  
+td {
+  border-width:1px;
+  border-style:dashed;
+}
