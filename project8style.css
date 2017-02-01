@@ -1,11 +1,30 @@
-table {
-  width:650px; 
+body {
   font-family:"Verdana";
 }
 
-border {
-  border-collapse:collapse;
-  border:"1";
+.table {
+  width:650px;
 }
+
+.col1 {
+  width: 
+}
+
+.col2 {
+ width: 
+}
+.col3 {
+  width:
+}
+.col4 {
+  width:
+}
+.col5 {
+  width:
+}
+
+
+
+
 
   
