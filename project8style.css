@@ -7,7 +7,7 @@ h1 {
   text-align:center;
 }
 
-.days {
+#days {
   font-weight:bold;
   background-color:yellow;
   color:black;
@@ -22,7 +22,7 @@ table {
   margin:auto;
 }
 
-.number {
+#number {
   color:blue;
 }
 
@@ -32,7 +32,7 @@ th {
   border-color:black;
 }
 
-.temp {
+#temp {
 color:red;
 }
 
