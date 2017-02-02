@@ -22,7 +22,7 @@ table {
   margin:auto;
 }
 
-#number {
+.number {
   color:blue;
 }
 
@@ -32,7 +32,7 @@ th {
   border-color:black;
 }
 
-#temp {
+.temp {
 color:red;
 }
 
