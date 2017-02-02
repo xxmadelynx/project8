@@ -7,12 +7,6 @@ h1 {
   text-align:center;
 }
 
-.days {
-  font-weight:bold;
-  background-color:yellow;
-  color:black;
-}
-
 table {
   border-collapse:collapse;
   border-color:blue;
