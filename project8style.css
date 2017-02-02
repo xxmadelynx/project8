@@ -1,10 +1,5 @@
 body {
   font-family:"Verdana";
-  text-align:center;
-}
-
-.table {
-  width:650px;
 }
 
 h1 {
@@ -12,21 +7,35 @@ h1 {
   text-align:center;
 }
 
-.border {
-  border-style:solid;
-  border-width:2px;
-  border-color:blue;
+.days {
+  font-weight:bold;
+  background-color:yellow;
 }
-.collapse {3
+
+table {
   border-collapse:collapse;
+  border-color:blue;
+  text-align:center;
+  width: 650px;
+  border-style:dotted;
+  margin:auto;
+}
+
+.number {
+  color:blue;
 }
 
 th {
-  border-width:1px;
-  border-style:dashed;
+  border-width:3px;
+  border-style:solid;
+  border-color:black;
+}
+
+.temp {
+color:red;
 }
 
 td {
-  border-width:1px;
-  border-style:dashed;
+  border-style:dotted;
+  border-color:blue;
 }
