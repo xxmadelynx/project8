@@ -7,10 +7,10 @@ h1 {
   text-align:center;
 }
 
-#days {
+.days {
   font-weight:bold;
-  background-color:yellow;
-  color:black;
+  background-color:"yellow";
+  color:"black";
 }
 
 table {
