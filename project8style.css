@@ -10,6 +10,7 @@ h1 {
 .days {
   font-weight:bold;
   background-color:yellow;
+  color:black;
 }
 
 table {
