@@ -1,26 +1,38 @@
-body {
-  font-family:"Verdana";
-}
-
-h1 {
-  color:green;
-  text-align:center;
+th {
+  border: 2px solid black;
 }
 
 table {
-  border-collapse:collapse;
-  border-color:blue;
-  text-align:center;
+  border-collapse: collapse;
   width: 650px;
-  border-style:dotted;
-  margin:auto;
-}
-th {
-  
+  margin: auto;
+  font-family: "Verdana";
+  text-align: center;
 }
 
+th {
+  height: 30px;
+  width: 20%;
+  background-color: yellow;
+  padding: 8px 0px 8px 0px
+}
+
+h1 {
+  color: green;
+  font-weight: bold;
+  text-align: center;
+}
 
 td {
-  border-style:dotted;
-  border-color:blue;
+  border-style: dotted;
+  border-color: blue;
+  padding: 8px 0px 8px 0px
+}
+
+.blue {
+  color: blue;
+}
+
+.red {
+  color: red;
 }
